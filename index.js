@@ -1,11 +1,11 @@
 const functions = require('firebase-functions');
 const firebase = require('firebase-admin');
-const config = require('./firebase-config.json');
+const config = require('./firebase-config.json'); //descarga la llave en firebase. guardar en la raiz del proyecto
 
 
 firebase.initializeApp({
     credential: firebase.credential.cert(config),
-    databaseURL: "https://curriculum-8172f.firebaseio.com"
+    databaseURL: "url de la base de datos"
 });
 
 exports.api = functions.https.onRequest((req, res) =>{
