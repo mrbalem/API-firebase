@@ -24,11 +24,11 @@ Como crear una API en firebase
   
     firebase init 
     
-  ###selecionar las funciones. como spacio seleccionar y con enter ejecutas el comando
-  ###seleccionar el nombre de su realtime database
-  ###¡elegir el lenguaje para manejar las funciones! - java script 
-  ###¿aplicar estylos de SLint? - y
-  ###¿instalar las dependencias con npm ahora? - y
-  ###ahora solo a esperar la instalacion.
+### selecionar las funciones. como spacio seleccionar y con enter ejecutas el comando
+  ### seleccionar el nombre de su realtime database
+  ### ¡elegir el lenguaje para manejar las funciones! - java script 
+  ### ¿aplicar estylos de SLint? - y
+  ### ¿instalar las dependencias con npm ahora? - y
+  ### ahora solo a esperar la instalacion.
     
  
