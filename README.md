@@ -33,7 +33,7 @@ Como crear una API en firebase
   
  ## paso 5
  
- reemplazar el archivo index.js con este archivo.
+ reemplazar el archivo index.js con este archivo. y descargar la llave para conectar a la base de datos. en firebase
  
  ## paso 6
  
